@@ -1,0 +1,5 @@
+your_class = input("What is your favorite class")
+loud_class = your_class.upper()
+small_version = your_class.lower()
+print("GREAT - YOU LIKE", loud_class)
+print("the lower case version is", small_version)
